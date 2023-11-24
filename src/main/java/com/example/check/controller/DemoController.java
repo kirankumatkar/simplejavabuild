@@ -11,7 +11,7 @@ public class DemoController {
 
     @GetMapping("/hello")
     public String hello(){
-        return "Hello from Java method";
+        return "Hello from Java method from kiran";
     }
 
     @GetMapping()
